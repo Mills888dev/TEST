@@ -17,6 +17,8 @@ Radiation effects on an environment can be disastrous. The main reason for that 
 
 The main problem that this boils down to is the length of time that radiation lasts. Radioactive sources can last upwards of longer than 1-2k years. This causes most methods of containing waste not to be very effective due to it only being able to last 500 years. This is a massive issue because when radioactive waste seeps out into the ground it can pollute water and kill most wildlife above it and in surrounding regions.
 
+![radiation scources](./assets/images/image4.png)
+
 Right now our best method of dealing with nuclear waste is to put it somewhere and forget about it. This causes a lot of issues like ground/water pollution which can cause the issues stated above. Right now we are working on storage silos for large waste disposal that could last 4,000+ years but these aren't perfect. Most of the materials used in these projects will not last the required time and may be harmful to future life. Our most effective method now is using copper and lead tubes and sealed in with dry clay and covered in concrete. 
 
 Nuclear waste can cause a lot of issues but it can be avoided. The 3 main points to avoiding radiation are first time, second is distance and third is shielding. Radiation is very deadly but only 3 seconds of exposure will not cause any issues. Secondly the distance to the sources is very important because the farther you are away, the farther it has to move to get to you, and the more of it is lost in travel. Third is shielding, which is about shielding yourself from it because radiation is mostly stopped by a lot of materials. Our most effective right now is lead.
