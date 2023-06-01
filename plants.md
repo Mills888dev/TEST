@@ -1,6 +1,6 @@
 ---
 title: Plants
-layout: plants
+layout: home
 ---
 
 Right now we have tech that can genetically modify plants beyond their normal abilities. Currently we only found how to amplify specific traits of plants. Within this article we hope to inform you on what genetically engineered plants do and where it is at right now.
