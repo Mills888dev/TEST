@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-<img src="/images/trashBranch.png">
+<img src="/asset/images/trashBranch.png">
 
 This is a website to introduce you to the diffrent parts of pollution what they do to the enviroment how we can maintain it and how to prevent it.
 
