@@ -11,6 +11,8 @@ Ground pollution is another major issue that causes bad crop growth and can infe
 
 Ocean pollution is our 3rd main problem which causes the mass death of various sea creatures. The main problem of this is that it causes sea creatures death via consumption of mismanaged plastics, but it can also cause bad light in the ocean and can cause waste to build up on shores. All of that causes a large amount of shore creatures and sea creatures to die every year and it's only getting worse. The main culprit of this is waste mismanagement and micro plastics. All of those get stuck inside of animals stomachs and due to plastic being hard to degrade just sits there and chokes the animals.
 
+![TRASH CIRCLED](./assets/images/image2.png)
+
 
 Our current solution right now is to “rake” the oceans with large barges. Currently our methods are highly inefficient. Right now we are looking at ways of using microbes that can eat plastic and using them to degrade and destroy the plastic in our oceans and landfills.
 
