@@ -1,6 +1,6 @@
 
 ---
-title: Plants
+title: Home
 layout: home
 ---
 
