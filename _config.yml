@@ -1,7 +1,8 @@
 title: TRASH
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-color_scheme: dark
 
 
 url: https://mills888dev.github.io
+color_scheme: dark
+
