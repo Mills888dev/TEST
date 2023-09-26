@@ -10,7 +10,7 @@ Now about the class this class is about pollution and researching what it does, 
 
 Thank you for seeing my project even if i'm not there you can come see me for questions in the greenbrier in the corner by the computers.
 
-
+ 
 
 ----
 
